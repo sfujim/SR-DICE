@@ -34,4 +34,14 @@ python main.py
 
 ### Bibtex
 
-TODO
+```
+@InProceedings{fujimoto2021srdice,
+  title = 	 {A Deep Reinforcement Learning Approach to Marginalized Importance Sampling with the Successor Representation},
+  author =       {Fujimoto, Scott and Meger, David and Precup, Doina},
+  booktitle = 	 {Proceedings of the 38th International Conference on Machine Learning},
+  pages = 	 {3518--3529},
+  year = 	 {2021},
+  volume = 	 {139},
+  publisher =    {PMLR},
+}
+```
